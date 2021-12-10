@@ -13,3 +13,5 @@ JSON OBJECT : {
     "height":300
     <br>
 }
+<br>
+Sample QR : <img src="https://github.com/udarasan/QRCode-Generator/blob/master/src/main/resources/static/img/QRCode.png">
